@@ -1,1 +1,3 @@
 # wordle
+
+## Authors: Katyskl, ilyakozlovdev
