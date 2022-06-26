@@ -1,1 +1,2 @@
 # wordle
+## authors KatySkl ilyakozlovdev
